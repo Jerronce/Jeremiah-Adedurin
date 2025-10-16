@@ -1,2 +1,66 @@
-! [UoPeople Ambassador Badge]
-(upBadge10k.jpg)
+# Hi there! 👋 I'm Jeremiah Adedurin (Jerry)
+
+![UoPeople Ambassador Badge](upBadge10k.jpg)
+
+## 🚀 About Me
+I'm a **passionate Software Developer** and **UoPeople Ambassador** dedicated to building innovative solutions that make a real-world impact. With expertise across multiple technology stacks, I transform complex problems into elegant, scalable applications.
+
+## 💻 What I Do
+- 🎯 Full-Stack Development (Frontend & Backend)
+- 🤖 Machine Learning & AI Solutions
+- 📱 Mobile App Development (Flutter, React Native)
+- ☁️ Cloud Computing & DevOps
+- 🔐 Secure Authentication Systems
+- 📊 Data Analytics & Visualization
+
+## 🛠️ Tech Stack
+
+**Languages:**
+- Python, JavaScript/TypeScript, Java, Dart, SQL
+
+**Frontend:**
+- React, HTML5, CSS3, Flutter
+
+**Backend:**
+- Node.js, Express, Django, Flask
+
+**AI/ML:**
+- TensorFlow, PyTorch, Scikit-learn, BERT, YOLO, GANs
+
+**Database:**
+- MongoDB, PostgreSQL, MySQL, Firebase
+
+**DevOps & Cloud:**
+- Docker, Git, GitHub Actions, AWS, Heroku
+
+## 🌟 Featured Projects
+Check out my repositories below to see real-world applications I've built, including:
+- 🧠 AI-powered applications (Image Classification, Text Summarization, Sentiment Analysis)
+- 📱 Mobile apps with Flutter and React Native
+- 🏮 E-commerce and business management systems
+- 🔒 Secure authentication and authorization systems
+- 📈 Data analytics dashboards and visualization tools
+
+## 🎯 Current Focus
+- Building production-ready AI/ML applications
+- Exploring advanced deep learning architectures
+- Contributing to open-source projects
+- Mentoring aspiring developers as a UoPeople Ambassador
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jerronce&show_icons=true&theme=radical)
+
+## 💬 Let's Connect!
+I'm always interested in collaborating on exciting projects or discussing technology.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jerronce/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://jerronce.github.io)
+
+## 🎓 Education & Advocacy
+Proud **University of the People Ambassador** - Advocating for accessible, quality education worldwide!
+
+---
+
+⭐ **Fun Fact:** I love turning coffee into code and ideas into reality!
+
+📫 **Open to opportunities:** Full-time, Contract, and Freelance work
