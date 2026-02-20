@@ -57,6 +57,7 @@ I'm always interested in collaborating on exciting projects or discussing techno
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://jerronce.github.io)
 [![Youtube](https://img.shields.io/badge/Youtube-Subscribe-red)](https://www.youtube.com/@jerronce)  
 [![Upwork](https://img.shields.io/badge/Upwork-Contact-blue)](https://www.upwork.com/freelancers/~01087d60104c94e1dc?mp_source=share)
+[![Fiver](https://img.shields.io/badge/Fiver-Contact-green)](https://www.fiverr.com/s/1qDW8l9)
 
 
 
