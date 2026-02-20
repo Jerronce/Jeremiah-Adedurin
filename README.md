@@ -59,6 +59,17 @@ I'm always interested in collaborating on exciting projects or discussing techno
 ## 🎓 Education & Advocacy
 Proud **University of the People Ambassador** - Advocating for accessible, quality education worldwide!
 
+
+
+## My YouTube Channel – Story, Tech & Music
+
+All my videos in one place: stroke survivor journey, church drumming (23+ years), coding/hardware projects, UoPeople updates, and now my music (Legend Rising & more).
+
+Channel: (https://www.youtube.com/@jerronce)  
+(Subscribe for real-life tech, motivation, and creative work 🍼🎶)
+
+
+
 ---
 
 ⭐ **Fun Fact:** I love turning coffee into code and ideas into reality!
