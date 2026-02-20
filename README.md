@@ -55,6 +55,7 @@ I'm always interested in collaborating on exciting projects or discussing techno
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jerronce/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://jerronce.github.io)
+[![Youtube](https://img.shields.io/badge/Youtube-Subscribe-red)](https://www.youtube.com/@jerronce)  
 
 ## 🎓 Education & Advocacy
 Proud **University of the People Ambassador** - Advocating for accessible, quality education worldwide!
