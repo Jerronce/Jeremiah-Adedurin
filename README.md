@@ -3,7 +3,7 @@
 ![UoPeople Ambassador Badge](upBadge10k.jpg)
 
 ## 🚀 About Me
-I'm Jeremiah (Jerry) Adedurin, **Founder of Prae Technologies**, **AI Engineer**, **Software Engineer**, and **Product Builder**. I hold a **Bachelor of Science (B.Sc.) in Computer Science from University of the People** and develop AI-powered software products for a global audience. As a UoPeople Ambassador, I continue to advocate for accessible education.
+I'm Jeremiah (Jerry) Adedurin, **Founder of Prae Technologies**, **AI Engineer**, **Software Engineer**, and **Product Builder**. I hold a **Bachelor of Science (B.Sc.) in Computer Science, Magna Cum Laude (High Honors), from University of the People** and develop AI-powered software products for a global audience. As a UoPeople Ambassador, I continue to advocate for accessible education.
 
 ## 💻 What I Do
 - 🎯 Full-Stack Development (Frontend & Backend)
@@ -63,7 +63,7 @@ I'm always interested in collaborating on exciting projects or discussing techno
 
 
 ## 🎓 Education & Advocacy
-**Bachelor of Science (B.Sc.) in Computer Science - University of the People. Graduate.**
+**Bachelor of Science (B.Sc.) in Computer Science - Magna Cum Laude (High Honors), University of the People. Graduate.**
 
 Proud **University of the People Ambassador** - Advocating for accessible, quality education worldwide!
 
